@@ -1,4 +1,8 @@
 Hello
 how are you?
 soothu moodu!
+<<<<<<< HEAD
 saathu
+=======
+saathu!
+>>>>>>> e1e985a5e79a1bd4519b27058d49d9ff68f085a4
